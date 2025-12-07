@@ -19,6 +19,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdias63&show_icons=true&theme=dark" />
+</p>
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=repo-name-1&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=repo-name-2&theme=dark" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
