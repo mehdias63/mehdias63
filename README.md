@@ -7,10 +7,6 @@
 <h2 align="center">Full-Stack Developer | Building Modern Web Experiences</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
-</p>
-
-<p align="center">
   Passionate about creating fast, clean, and scalable web applications with modern technologies.
 </p>
 
@@ -20,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=transparent&ring=0b5cff&fire=0b5cff&currStreakLabel=0b5cff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
 </p>
 
 
