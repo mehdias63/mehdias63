@@ -27,5 +27,5 @@
 
 ## 📬 Connect With Me
 - 🌐 Website: Coming Soon
-- 💼 LinkedIn: https://linkedin.com/in/your-username
-- 🐦 Twitter: https://twitter.com/your-username
+- 💼 LinkedIn: Coming Soon
+- 🐦 Twitter: Coming Soon
