@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Mehdi%20Asadi&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**mehdias63/mehdias63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🚀 Welcome to my GitHub Profile</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Full-Stack Developer in progress  
+- 🔥 Passionate about modern web technologies  
+- 🎯 Always learning & improving  
+
+---
+
+## ⚙️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdias63&theme=react-dark" />
+</p>
+
+---
+
+## 📬 Connect With Me
+- 🌐 Website: Coming Soon
+- 💼 LinkedIn: https://linkedin.com/in/your-username
+- 🐦 Twitter: https://twitter.com/your-username
