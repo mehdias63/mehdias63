@@ -18,20 +18,26 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
 </p>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<h3 align="center">🚀 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/mehdias63/Personal-finance-app" target="_blank" style="text-decoration:none;">
-    <b>💰 Personal Finance App</b>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mehdias63/Audiophile-e-commerce-website" target="_blank" style="text-decoration:none;">
-    <b>🎧 Audiophile E-commerce Website</b>
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>💰 Personal Finance App</h3>
+      <p>A simple and modern personal finance manager.</p>
+      <a href="https://github.com/mehdias63/Personal-finance-app" target="_blank">
+        👉 View Repository
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎧 Audiophile E-commerce Website</h3>
+      <p>Modern and responsive e-commerce web application.</p>
+      <a href="https://github.com/mehdias63/Audiophile-e-commerce-website" target="_blank">
+        👉 View Repository
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
