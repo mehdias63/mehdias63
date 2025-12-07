@@ -24,12 +24,6 @@
 
 ---
 
-## 📈 GitHub Activity
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdias63&theme=react-dark" />
-</p>
-
----
 
 ## 📬 Connect With Me
 - 🌐 Website: Coming Soon
