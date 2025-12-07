@@ -26,8 +26,8 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=repo-name-1&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=repo-name-2&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=Personal-finance-app&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdias63&repo=Audiophile-e-commerce-website&theme=dark" />
 </p>
 
 <p align="center">
