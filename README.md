@@ -1,21 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Mehdi%20Asadi&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5cff,100:00c6ff&height=230&section=header&text=mehdias63&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Welcome to my GitHub Profile</h2>
+<h2 align="center">💻 Full-Stack Developer | Tech Enthusiast</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=mehdias63&label=Profile%20Views&color=0b5cff&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 Full-Stack Developer in progress  
-- 🔥 Passionate about modern web technologies  
-- 🎯 Always learning & improving  
-
----
+## 🧑‍💻 About Me
+```js
+const me = {
+  name: "Mehdi",
+  role: "Full-Stack Developer",
+  language: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Git"],
+  passion: "Building modern and fast web apps"
+};
 
 ## ⚙️ Tech Stack
 <p>
