@@ -19,16 +19,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdias63&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehdias63&show_icons=true&theme=dark" />
-</p>
-
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mehdias63&repo=Personal-finance-app&theme=dark" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mehdias63&repo=Audiophile-e-commerce-website&theme=dark" />
+  <a href="https://github.com/mehdias63/Personal-finance-app" target="_blank" style="text-decoration:none;">
+    <b>💰 Personal Finance App</b>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/mehdias63/Audiophile-e-commerce-website" target="_blank" style="text-decoration:none;">
+    <b>🎧 Audiophile E-commerce Website</b>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
