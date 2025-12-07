@@ -11,6 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
+```js
 const profile = {
   name: "Mehdi Asadi",
   role: "Full-Stack Developer",
