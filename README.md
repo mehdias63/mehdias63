@@ -49,7 +49,7 @@
 <h2>📄 For Recruiters</h2>
 
 - ✅ Strong foundation in modern web technologies  
-- ✅ Experience building real-world frontend and backend projects  
+- ✅ Experience building real-world frontend projects  
 - ✅ Comfortable working with Git, clean architecture and best practices  
 - ✅ Fast learner and team player  
 
