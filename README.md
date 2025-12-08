@@ -33,7 +33,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💰 Personal Finance App</h3>
-      <p>A simple and modern personal finance manager.</p>
+      <p>A simple and modern personal manager.</p>
       <a href="https://github.com/mehdias63/Personal-finance-app">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
