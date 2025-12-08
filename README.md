@@ -31,14 +31,14 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3>💰 Personal Finance App</h3>
-      <p>A simple and modern personal manager.</p>
+      <p>A simple and modern personal finance manager.</p>
       <a href="https://github.com/mehdias63/Personal-finance-app">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎧 Audiophile E-commerce Website</h3>
-      <p>Modern, fast and responsive application.</p>
+      <p>Modern, fast and responsive e-commerce application.</p>
       <a href="https://github.com/mehdias63/Audiophile-e-commerce-website">🔗 View Repository</a>
     </td>
   </tr>
