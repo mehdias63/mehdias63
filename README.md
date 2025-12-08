@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎧 Audiophile E-commerce Website</h3>
-      <p>Modern, fast and responsive e-commerce application.</p>
+      <p>Modern, fast and responsive application.</p>
       <a href="https://github.com/mehdias63/Audiophile-e-commerce-website">🔗 View Repository</a>
     </td>
   </tr>
