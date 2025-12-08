@@ -57,7 +57,7 @@
 
 <h2>📬 Connect With Me</h2>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0b5cff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Twitter-0b5cff?style=for-the-badge&logo=twitter&logoColor=white" /></a>
