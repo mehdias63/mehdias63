@@ -22,7 +22,13 @@
 <h2>⚙️ Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode" />
+  <strong>Frontend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+<p>
+  <strong>Tools:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </p>
 
 ---
