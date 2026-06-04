@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5cff,100:00c6ff&height=260&section=header&text=Mehdi%20Asadi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5cff,100:00c6ff&height=260&section=header&text=Mehdi%20Tatasadi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi, I'm Mehdi Asadi 👋</h1>
+<h1 align="center">Hi, I'm Mehdi Tatasadi 👋</h1>
 <h3 align="center">Full-Stack Developer | Building Scalable & Modern Web Applications</h3>
 
 <p align="center">
