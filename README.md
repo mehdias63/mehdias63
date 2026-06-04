@@ -65,7 +65,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mehdi-tatasadi-878690413"><img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mehditatasadi63@gmail.com"><img src="https://img.shields.io/badge/Email-0b5cff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
