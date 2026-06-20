@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mehdi Tatasadi 👋</h1>
-<h3 align="center">Frontend Developer | Building Modern, Scalable & Real-World Web Apps</h3>
+<h3 align="center">Frontend Developer | Building Modern, Scalable & Real-World Web Applications</h3>
 
 <p align="center">
   Passionate about clean UI, scalable architecture, and real-world problem solving.
@@ -11,78 +11,96 @@
 
 ---
 
-<h2>🧠 About Me</h2>
+## 🧠 About Me
 
 - 💻 Frontend Developer focused on clean and scalable code  
 - 🚀 Interested in building real-world products and scalable web apps  
 - 🎯 Self-learner, detail-oriented, and problem solver  
-- 🌍 Passionate about user experience and performance  
+- 🌍 Passionate about UX, UI & performance
 
 ---
 
-<h2>⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
+
+**Frontend:**
 
 <p>
-  <strong>Frontend:</strong><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
+**Tools:**
+
 <p>
-  <strong>Tools:</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </p>
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Online Shop (Full-Stack Frontend)</h3>
-      <p>
-        A complete e-commerce platform with authentication, user dashboard, admin panel, and bilingual support.
-      </p>
-      <a href="https://github.com/mehdias63/Online-Shop">🔗 View Repository</a>
-    </td>
+### 🛒 Online Shop (Full-Featured E-commerce Platform)
+Full e-commerce system with authentication, user dashboard, admin panel, multilingual support, and role-based access control.
 
-    <td width="50%" valign="top">
-      <h3>💰 Personal Finance App</h3>
-      <p>
-        A modern dashboard for managing income, expenses, budgets, and savings goals.
-      </p>
-      <a href="https://github.com/mehdias63/Personal-finance-app">🔗 View Repository</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎧 Audiophile E-commerce Website</h3>
-      <p>
-        Responsive e-commerce website with product browsing, cart system, and modern UI.
-      </p>
-      <a href="https://github.com/mehdias63/Audiophile-e-commerce-website">🔗 View Repository</a>
-    </td>
-  </tr>
-</table>
+🔗 [View Repository](https://github.com/mehdias63/Online-Shop)
 
 ---
 
-<h2>📄 For Recruiters</h2>
+### 💰 Personal Finance App
+Modern dashboard for managing income, expenses, budgets, and savings goals with clean UI and structured data handling.
 
-- ✅ Strong understanding of modern frontend development  
-- ✅ Experience building real-world scalable web applications  
-- ✅ Skilled in React, Next.js, TypeScript, and UI/UX implementation  
-- ✅ Familiar with authentication systems, dashboards, and e-commerce flows  
-- ✅ Clean code practices and Git workflow experience  
+🔗 [View Repository](https://github.com/mehdias63/Personal-finance-app)
 
 ---
 
-<h2>📬 Connect With Me</h2>
+### 🎧 Audiophile E-commerce Website
+Responsive e-commerce website with product browsing, cart system, and interactive UI built from a professional design system.
+
+🔗 [View Repository](https://github.com/mehdias63/Audiophile-e-commerce-website)
+
+---
+
+### 🛸 Rick and Morty App
+React-based app for browsing characters, managing favorites, and displaying data from external API with modal interaction.
+
+🔗 [View Repository](https://github.com/mehdias63)
+
+---
+
+### 🎬 Entertainment Web App
+Multi-page entertainment platform with movies, TV series, search functionality, and bookmark system.
+
+🔗 [View Repository](https://github.com/mehdias63)
+
+---
+
+### 📝 Frontend Quiz App
+Interactive quiz application with dynamic questions from JSON, scoring system, and smooth UX.
+
+🔗 [View Repository](https://github.com/mehdias63)
+
+---
+
+### 📝 Multi-Step Form
+Multi-step form with validation, step navigation, data persistence, and summary review before submission.
+
+🔗 [View Repository](https://github.com/mehdias63)
+
+---
+
+## 📄 For Recruiters
+
+- ✅ Strong understanding of modern frontend architecture  
+- ✅ Experience building real-world full-stack frontend apps  
+- ✅ Skilled in React, Next.js, TypeScript, and UI/UX systems  
+- ✅ Experience with authentication, dashboards, APIs, and state management  
+- ✅ Clean code practices and scalable project structure  
+
+---
+
+## 📬 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mehdi-tatasadi-878690413">
     <img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
