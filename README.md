@@ -41,7 +41,7 @@
 ### 🛒 Online Shop (Full-Featured E-commerce Platform)
 Full e-commerce system with authentication, user dashboard, admin panel, multilingual support, and role-based access control.
 
-🔗 [View Repository](https://github.com/mehdias63/Online-Shop)
+🔗 [View Repository](https://github.com/mehdias63/Next-shop-admin-panel)
 
 ---
 
@@ -62,28 +62,28 @@ Responsive e-commerce website with product browsing, cart system, and interactiv
 ### 🛸 Rick and Morty App
 React-based app for browsing characters, managing favorites, and displaying data from external API with modal interaction.
 
-🔗 [View Repository](https://github.com/mehdias63)
+🔗 [View Repository](https://github.com/mehdias63/Rick-and-Morty)
 
 ---
 
 ### 🎬 Entertainment Web App
 Multi-page entertainment platform with movies, TV series, search functionality, and bookmark system.
 
-🔗 [View Repository](https://github.com/mehdias63)
+🔗 [View Repository](https://github.com/mehdias63/Entertainment-web-app)
 
 ---
 
 ### 📝 Frontend Quiz App
 Interactive quiz application with dynamic questions from JSON, scoring system, and smooth UX.
 
-🔗 [View Repository](https://github.com/mehdias63)
+🔗 [View Repository](https://github.com/mehdias63/Frontend-quiz-app)
 
 ---
 
 ### 📝 Multi-Step Form
 Multi-step form with validation, step navigation, data persistence, and summary review before submission.
 
-🔗 [View Repository](https://github.com/mehdias63)
+🔗 [View Repository](https://github.com/mehdias63/Multi-step-form-main)
 
 ---
 
