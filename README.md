@@ -13,11 +13,12 @@
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer focused on clean and scalable code  
-- 🚀 Interested in building real-world products and scalable web apps  
-- 🎯 Self-learner, detail-oriented, and problem solver  
+- 💻 Frontend Developer focused on clean and scalable code
+- 🏢 Former Technical Support Engineer at ParsPack (2011–2013)
+- 🌐 Experience with Hosting, DNS, VPS & Dedicated Servers
+- 🚀 Interested in building real-world products and scalable web apps
+- 🎯 Self-learner, detail-oriented, and problem solver
 - 🌍 Passionate about UX, UI & performance
-
 ---
 
 ## ⚙️ Tech Stack
@@ -25,7 +26,7 @@
 **Frontend:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 </p>
 
 **Tools:**
@@ -104,5 +105,13 @@ React-based app for browsing characters, managing favorites, and displaying data
 <p>
   <a href="https://www.linkedin.com/in/mehdi-tatasadi-878690413">
     <img src="https://img.shields.io/badge/LinkedIn-0b5cff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mehdias63">
+    <img src="https://img.shields.io/badge/GitHub-0b5cff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://mehdiasadi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0b5cff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
